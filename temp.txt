@@ -1,0 +1,18 @@
+
+¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä¡ä
+[Vue.js¶õ? Vue-001 ~ Vue-034]
+https://m.blog.naver.com/bkcaller/221456846541
+
+C:\Portal\VUE_EXAM>mkdir vuetest
+C:\Portal\VUE_EXAM>cd vuetest
+C:\Portal\VUE_EXAM\vuetest>npm install -g @vue/cli
+C:\Portal\VUE_EXAM\vuetest>vue create frontend
+C:\Portal\VUE_EXAM\vuetest>cd frontend
+C:\Portal\VUE_EXAM\vuetest\frontend>vue add vuetify
+C:\Portal\VUE_EXAM\vuetest\frontend>npm install --save vue-router
+C:\Portal\VUE_EXAM\vuetest\frontend>npm install --save vuex
+C:\Portal\VUE_EXAM\vuetest\frontend>npm install --save axios
+C:\Portal\VUE_EXAM\vuetest\frontend>npm run serve
+¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â¡â
+
+
