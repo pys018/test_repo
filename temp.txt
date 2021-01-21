@@ -26,6 +26,10 @@ C:\Portal\VUESTUDY\my-first-vue>npm run serve
 
 
 
+
+# javascript es6 문법
+  -. https://velog.io/@decody/ES6-Sheetsheet
+  -. http://www.gisdeveloper.co.kr/?p=4940
 # echart 검토
 # devexpress XtraChart
 
