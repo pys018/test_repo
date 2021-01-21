@@ -13,6 +13,20 @@ C:\Portal\VUE_EXAM\vuetest\frontend>npm install --save vue-router
 C:\Portal\VUE_EXAM\vuetest\frontend>npm install --save vuex
 C:\Portal\VUE_EXAM\vuetest\frontend>npm install --save axios
 C:\Portal\VUE_EXAM\vuetest\frontend>npm run serve
+======================================================================
+C:\Portal\VUESTUDY>npm install -g @vue/cli
+C:\Portal\VUESTUDY>vue create my-first-vue
+C:\Portal\VUESTUDY>cd my-first-vue
+C:\Portal\VUESTUDY\my-first-vue>vue add vuetify
+C:\Portal\VUESTUDY\my-first-vue>npm install --save vue-router
+C:\Portal\VUESTUDY\my-first-vue>npm install --save vuex
+C:\Portal\VUESTUDY\my-first-vue>npm install --save axios
+C:\Portal\VUESTUDY\my-first-vue>npm run serve
 °‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚°‚
+
+
+
+# echart ∞À≈‰
+# devexpress XtraChart
 
 
